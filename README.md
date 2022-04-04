@@ -6,7 +6,7 @@
 - 👀 I’m interested in reasearching and solving problems!
 - 🌱 I’m currently learning Python, SQL, Machine Learning, Tableau
 - 💞️ I’m looking to utilize my data analysis skills to collaborate on projects in varying ways and developing machine learning models 
-- 📫 I am looking forward to chatting about how I can solve problems for your team @tc179182@hotmail.com
+- 📫 I am looking forward to chatting about how I can solve problems for your team @tahczeban@hotmail.com
 
 
 <!---
